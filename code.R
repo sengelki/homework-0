@@ -1,4 +1,4 @@
 library("tidyverse")
 data(ChickWeight)
-head(Chickweight)
+head(ChickWeight)
 ChickWeight
